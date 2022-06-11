@@ -16,6 +16,7 @@ A faire :
 - Désactiver "pich to zoom" sur écran tactile
 - ColorPicker sur mobile via long press (NumPad_1 sur desktop)
 - Améliorer interface tablet & mobile
+- Possibilitée de desactiver la peinture au doigt (pen only)
 - ...
   /////////////////////////////////////
 
