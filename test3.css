@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.save {
+    border-style: none;
+    font-size: medium;
+    background-color: hsl(153, 19%, 50%);
+    color: whitesmoke;
+}
+
+.open {
+    border-style: none;
+    font-size: medium;
+    background-color: hsl(153, 19%, 75%);
+    color: black;
+}
+
+.export {
+    border-style: none;
+    font-size: medium;
+    background-color: hsl(30, 9%, 50%);
+    color: whitesmoke;
+}
+
+.import {
+    border-style: none;
+    font-size: medium;
+    background-color: hsl(30, 9%, 75%);
+    color: black;
+}
+
+.timelapse {
+    border-style: none;
+    font-size: medium;
+    background-color: hsl(240, 9%, 50%);
+    color: whitesmoke;
+}
+
+.clearall {
+    border-style: none;
+    font-size: medium;
+    background-color: hsl(240, 9%, 75%);
+    color: black;
+}
+
+/* .fullscreen {
+    border-style: none;
+    font-size: medium;
+    background-color: hsl(0, 0%, 40%);
+    color: black;
+} */
