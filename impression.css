@@ -49,9 +49,10 @@
     color: black;
 }
 
-/* .fullscreen {
+.fullscreen {
     border-style: none;
     font-size: medium;
     background-color: hsl(0, 0%, 40%);
     color: black;
-} */
+    color: hsl(153, 19%, 75%);
+}
